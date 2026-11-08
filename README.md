@@ -17,4 +17,6 @@ go doc fmt.Println
 go doc os.Args
 go doc os.ReadDir
 go doc strings.HasPrefix
+go doc os.Lstat
+go doc path/filepath.Join
 ```
